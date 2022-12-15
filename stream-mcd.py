@@ -2,7 +2,7 @@ import pickle
 import numpy as np
 import streamlit as st
 
-model = pickle.load(open('category_mcd.sav', 'rb'))
+model = pickle.load(open("category_mcd.sav", 'rb'))
 
 st.title('prediksi kategori menu mcdonald')
 
