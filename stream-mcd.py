@@ -15,7 +15,7 @@ with col1 :
 
 	Total_Fat = st.number_input('input total fat')
 
-	Total_FatDailyValue = st.number_input('input jumlah saudara')
+	Total_FatDailyValue = st.number_input('input total fat daily')
 
 	Saturated_Fat = st.number_input('input jumlah Saturated_Fat')
 
