@@ -33,8 +33,6 @@ with col2:
 
 	SodiumDailyValue = st.number_input('input total SodiumDailyValue')
 
-	Total_FatDailyValue = st.number_input('input jumlah Total_FatDailyValue')
-
 	Carbohydrates = st.number_input('input jumlah Carbohydrates')
 
 	CarbohydratesDailyValue = st.number_input('input jumlah CarbohydratesDailyValue')
